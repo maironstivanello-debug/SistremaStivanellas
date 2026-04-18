@@ -1,0 +1,2 @@
+echo teste > teste.txt
+git status
